@@ -6615,6 +6615,42 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "455-S2B-PH-SM4-TBCT-ND"
+			(at 69.85 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.69000"
+			(at 69.85 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.69000"
+			(at 69.85 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
+			(at 69.85 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27ba623f-6540-473b-aa74-0f6995b1400b")
 		)
@@ -6898,6 +6934,42 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 215.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "AP2112K-3.3TRG1DICT-ND"
+			(at 215.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.35"
+			(at 215.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.35"
+			(at 215.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
 			(at 215.9 152.4 0)
 			(effects
 				(font
@@ -7732,6 +7804,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "311-1446-1-ND"
+			(at 246.38 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 246.38 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 246.38 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2fe3397-b282-4c15-b00f-9ee110720a0f")
 		)
@@ -7881,6 +7980,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 233.68 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "311-1446-1-ND"
+			(at 233.68 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 233.68 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 233.68 156.21 0)
 			(effects
 				(font
@@ -8178,6 +8304,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "311-1446-1-ND"
+			(at 193.04 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 193.04 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 193.04 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3ddcb30-52e0-4ebf-88d1-a2a575343f04")
 		)
@@ -8330,6 +8483,42 @@
 		)
 		(property "Supplier_2 Price @ Qty" ""
 			(at 200.66 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "ATSAMD51J19A-AUTCT-ND"
+			(at 233.68 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "5.68"
+			(at 233.68 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "5.68"
+			(at 233.68 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
+			(at 233.68 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8644,6 +8833,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "CR0603-FX-1003ELFTR-ND"
+			(at 177.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10000"
+			(at 177.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 177.8 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6e1992bd-da7e-4390-b546-51063d95ce72")
 		)
@@ -8793,6 +9009,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 182.88 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "MBR120LSFT1GOSCT-ND"
+			(at 182.88 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.42"
+			(at 182.88 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.42"
 			(at 182.88 149.86 0)
 			(effects
 				(font
@@ -9026,6 +9269,42 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "MCP73831T-2ATI/OTCT-ND"
+			(at 133.35 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.76"
+			(at 133.35 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.76"
+			(at 133.35 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
+			(at 133.35 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51072b08-2e11-4ebf-a969-95c047e5633b")
 		)
@@ -9185,6 +9464,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 278.13 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "CAY16-1003F4LFCT-ND"
+			(at 278.13 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 278.13 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 278.13 175.26 0)
 			(effects
 				(font
@@ -9363,6 +9669,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 184.15 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "RNCP0603FTD10K0CT-ND"
+			(at 184.15 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 184.15 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 184.15 76.2 0)
 			(effects
 				(font
@@ -9594,6 +9927,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "MCT0603-1.00K-CFCT-ND"
+			(at 113.03 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 113.03 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 113.03 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9aaaf817-14c4-467a-8bba-10805a1457a9")
 		)
@@ -9743,6 +10103,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 260.35 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "1276-1096-1-N"
+			(at 260.35 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 260.35 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 260.35 156.21 0)
 			(effects
 				(font
@@ -9901,6 +10288,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 208.28 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "587-LSQEA251818T100KCT-ND"
+			(at 208.28 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.13"
+			(at 208.28 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.13"
 			(at 208.28 104.14 0)
 			(effects
 				(font
@@ -10192,6 +10606,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 153.67 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "RNCP0603FTD10K0CT-ND"
+			(at 153.67 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 153.67 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 153.67 157.48 0)
 			(effects
 				(font
@@ -10709,6 +11150,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "311-1446-1-ND"
+			(at 275.59 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 275.59 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 275.59 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84247607-efef-4aa1-ae1f-1aaba0faf529")
 		)
@@ -10858,6 +11326,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 161.29 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "1276-1096-1-N"
+			(at 161.29 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 161.29 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 161.29 157.48 0)
 			(effects
 				(font
@@ -11287,6 +11782,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "311-1446-1-ND"
+			(at 267.97 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 267.97 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 267.97 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c20bcde4-c08c-43f4-99a3-433830cc88ac")
 		)
@@ -11447,6 +11969,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "31-DMP2070UQ-7CT-ND"
+			(at 193.04 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.48"
+			(at 193.04 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.48"
+			(at 193.04 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c0969b7c-0819-4bef-af10-4ea0612ddee8")
 		)
@@ -11599,6 +12148,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 283.21 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "311-1446-1-ND"
+			(at 283.21 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 283.21 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 283.21 156.21 0)
 			(effects
 				(font
@@ -11829,6 +12405,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "1276-1096-1-N"
+			(at 200.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 200.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 200.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "03514b82-9244-431a-ab32-564f95e5aaa1")
 		)
@@ -11981,6 +12584,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 171.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "CKN10285CT-ND"
+			(at 171.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.92"
+			(at 171.45 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.92"
 			(at 171.45 78.74 0)
 			(effects
 				(font
@@ -12439,6 +13069,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "3147-B1701UD--20D000414U1930CT-ND"
+			(at 105.41 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 105.41 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 105.41 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A"
 			(uuid "95651199-d4dc-489e-a8c9-9eb2a4164739")
 		)
@@ -12654,6 +13311,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "1276-1096-1-N"
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 193.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 193.04 158.75 0)
 			(effects
 				(font
@@ -13178,7 +13862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-1446-1-ND"
 			(at 184.15 86.36 0)
 			(effects
 				(font
@@ -13187,7 +13871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 184.15 86.36 0)
 			(effects
 				(font
@@ -13196,7 +13880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.10"
 			(at 184.15 86.36 0)
 			(effects
 				(font
@@ -13446,6 +14130,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 226.06 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "1276-1096-1-N"
+			(at 226.06 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 226.06 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 226.06 158.75 0)
 			(effects
 				(font
@@ -13738,6 +14449,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 200.66 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "RNCP0603FTD10K0CT-ND"
+			(at 200.66 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 200.66 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 200.66 154.94 0)
 			(effects
 				(font

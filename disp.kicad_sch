@@ -3302,7 +3302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 105.41 119.38 0)
 			(effects
 				(font
@@ -3311,7 +3311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 105.41 119.38 0)
 			(effects
 				(font
@@ -3320,7 +3320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 105.41 119.38 0)
 			(effects
 				(font
@@ -3524,7 +3524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 219.71 120.65 0)
 			(effects
 				(font
@@ -3533,7 +3533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 219.71 120.65 0)
 			(effects
 				(font
@@ -3542,7 +3542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 219.71 120.65 0)
 			(effects
 				(font
@@ -3656,7 +3656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr P/N" "MAX7219CWG+T"
+		(property "Mfr P/N" "MAX7221CWG+T"
 			(at 250.19 153.67 0)
 			(effects
 				(font
@@ -3674,7 +3674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" "MAX7219CWG+TTR-ND"
+		(property "Supplier 1 P/N" "MAX7221CWG+CT-ND"
 			(at 250.19 153.67 0)
 			(effects
 				(font
@@ -3683,7 +3683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" "17.90000"
+		(property "Supplier 1 Unit Price" "17.31"
 			(at 250.19 153.67 0)
 			(effects
 				(font
@@ -3692,7 +3692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" "17.90000"
+		(property "Supplier 1 Price @ Qty" "17.31"
 			(at 250.19 153.67 0)
 			(effects
 				(font
@@ -3729,6 +3729,33 @@
 			)
 		)
 		(property "Supplier 2 Price @ Qty" ""
+			(at 250.19 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 P/N" "MAX7219CWG+TTR-ND"
+			(at 250.19 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "17.90000"
+			(at 250.19 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "17.90000"
 			(at 250.19 153.67 0)
 			(effects
 				(font
@@ -3971,7 +3998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 105.41 124.46 0)
 			(effects
 				(font
@@ -3980,7 +4007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 105.41 124.46 0)
 			(effects
 				(font
@@ -3989,7 +4016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 105.41 124.46 0)
 			(effects
 				(font
@@ -4182,6 +4209,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier_1 P/N" " 118-CR0603-FX-9531ELFTR-ND "
+			(at 114.3 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "0.10000"
+			(at 114.3 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "0.10000"
+			(at 114.3 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "919459df-7a82-4f26-a063-c48fc7949125")
 		)
@@ -4350,7 +4404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 219.71 123.19 0)
 			(effects
 				(font
@@ -4359,7 +4413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 219.71 123.19 0)
 			(effects
 				(font
@@ -4368,7 +4422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 219.71 123.19 0)
 			(effects
 				(font
@@ -4482,7 +4536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr P/N" "MAX7219CWG+T"
+		(property "Mfr P/N" "MAX7221CWG+T"
 			(at 140.97 152.4 0)
 			(effects
 				(font
@@ -4500,7 +4554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" "MAX7219CWG+TTR-ND"
+		(property "Supplier 1 P/N" "MAX7221CWG+CT-ND"
 			(at 140.97 152.4 0)
 			(effects
 				(font
@@ -4509,7 +4563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" "17.90000"
+		(property "Supplier 1 Unit Price" "17.31"
 			(at 140.97 152.4 0)
 			(effects
 				(font
@@ -4518,7 +4572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" "17.90000"
+		(property "Supplier 1 Price @ Qty" "17.31"
 			(at 140.97 152.4 0)
 			(effects
 				(font
@@ -4555,6 +4609,33 @@
 			)
 		)
 		(property "Supplier 2 Price @ Qty" ""
+			(at 140.97 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 P/N" "MAX7219CWG+TTR-ND"
+			(at 140.97 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "17.90000"
+			(at 140.97 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "17.90000"
 			(at 140.97 152.4 0)
 			(effects
 				(font
@@ -4681,7 +4762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
 			(at 180.34 73.66 0)
 			(effects
 				(font
@@ -4691,6 +4772,60 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x07, script generated"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "Adam Tech"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr P/N" "PH1-07-UA"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "2057-PH1-07-UA-ND"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.14000"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.14000"
 			(at 180.34 73.66 0)
 			(effects
 				(font
@@ -4871,6 +5006,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier_1 P/N" " 118-CR0603-FX-9531ELFTR-ND "
+			(at 223.52 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "0.10000"
+			(at 223.52 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "0.10000"
+			(at 223.52 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6e4c4023-c7f9-42f6-b693-06dde84393b6")
 		)
@@ -4923,7 +5085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
 			(at 273.05 73.66 0)
 			(effects
 				(font
@@ -4933,6 +5095,60 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x07, script generated"
+			(at 273.05 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "Adam Tech"
+			(at 273.05 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr P/N" "PH1-07-UA"
+			(at 273.05 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
+			(at 273.05 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "2057-PH1-07-UA-ND"
+			(at 273.05 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.14000"
+			(at 273.05 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.14000"
 			(at 273.05 73.66 0)
 			(effects
 				(font
@@ -5074,7 +5290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
 			(at 137.16 73.66 0)
 			(effects
 				(font
@@ -5084,6 +5300,60 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x07, script generated"
+			(at 137.16 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "Adam Tech"
+			(at 137.16 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr P/N" "PH1-07-UA"
+			(at 137.16 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
+			(at 137.16 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "2057-PH1-07-UA-ND"
+			(at 137.16 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.14000"
+			(at 137.16 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.14000"
 			(at 137.16 73.66 0)
 			(effects
 				(font
@@ -5275,7 +5545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 219.71 125.73 0)
 			(effects
 				(font
@@ -5284,7 +5554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 219.71 125.73 0)
 			(effects
 				(font
@@ -5293,7 +5563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 219.71 125.73 0)
 			(effects
 				(font
@@ -5497,7 +5767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "RNCP0603FTD10K0CT-ND"
 			(at 113.03 113.03 0)
 			(effects
 				(font
@@ -5506,7 +5776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 113.03 113.03 0)
 			(effects
 				(font
@@ -5515,7 +5785,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.10"
 			(at 113.03 113.03 0)
 			(effects
 				(font
@@ -5603,7 +5873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
 			(at 229.87 73.66 0)
 			(effects
 				(font
@@ -5613,6 +5883,60 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x07, script generated"
+			(at 229.87 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "Adam Tech"
+			(at 229.87 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr P/N" "PH1-07-UA"
+			(at 229.87 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
+			(at 229.87 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "2057-PH1-07-UA-ND"
+			(at 229.87 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.14000"
+			(at 229.87 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.14000"
 			(at 229.87 73.66 0)
 			(effects
 				(font
@@ -5804,7 +6128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 105.41 121.92 0)
 			(effects
 				(font
@@ -5813,7 +6137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 105.41 121.92 0)
 			(effects
 				(font
@@ -5822,7 +6146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 105.41 121.92 0)
 			(effects
 				(font

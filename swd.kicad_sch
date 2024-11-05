@@ -1017,7 +1017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "1.60000"
 			(at 204.47 134.62 0)
 			(effects
 				(font
@@ -1026,7 +1026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "1.60000"
 			(at 204.47 134.62 0)
 			(effects
 				(font
@@ -1063,6 +1063,33 @@
 			)
 		)
 		(property "Supplier 2 Price @ Qty" ""
+			(at 204.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 P/N" "-- mixed values --"
+			(at 204.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "-- mixed values --"
+			(at 204.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "-- mixed values --"
 			(at 204.47 134.62 0)
 			(effects
 				(font

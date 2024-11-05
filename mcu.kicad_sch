@@ -6983,6 +6983,42 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "644-STDMUA17-32.768KCT-ND"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "1.02000"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "1.02000"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
+			(at 149.86 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "P$1"
 			(uuid "ce17be17-871b-40c8-a281-2586aa6fc415")
 		)
@@ -7289,6 +7325,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 139.7 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "399-C0603C220K4GAC7867CT-ND"
+			(at 139.7 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 139.7 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 139.7 35.56 0)
 			(effects
 				(font
@@ -7890,6 +7953,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "CR0603-FX-1003ELFTR-ND"
+			(at 118.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10000"
+			(at 118.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 118.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b85f253-195b-4574-a694-580ccfce5baf")
 		)
@@ -8242,6 +8332,42 @@
 		)
 		(property "Supplier_2 Price @ Qty" ""
 			(at 176.53 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "ATSAMD51J19A-AUTCT-ND"
+			(at 209.55 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "5.68"
+			(at 209.55 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "5.68"
+			(at 209.55 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
+			(at 209.55 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8660,7 +8786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1" ""
+		(property "Supplier 1" "Digikey"
 			(at 190.5 66.04 0)
 			(effects
 				(font
@@ -8669,7 +8795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "ATSAMD51J19A-AUTCT-ND"
 			(at 190.5 66.04 0)
 			(effects
 				(font
@@ -8678,7 +8804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "5.68"
 			(at 190.5 66.04 0)
 			(effects
 				(font
@@ -8687,7 +8813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "5.68"
 			(at 190.5 66.04 0)
 			(effects
 				(font
@@ -9077,6 +9203,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "2686"
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.495"
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.495"
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ed0e66b-e498-4a62-9645-a5ccf12c21c0")
 		)
@@ -9250,7 +9403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "A129540CT-ND"
 			(at 293.37 66.04 0)
 			(effects
 				(font
@@ -9259,7 +9412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 293.37 66.04 0)
 			(effects
 				(font
@@ -9268,7 +9421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.10"
 			(at 293.37 66.04 0)
 			(effects
 				(font
@@ -9538,7 +9691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "RNCP0603FTD10K0CT-ND"
 			(at 313.69 73.66 0)
 			(effects
 				(font
@@ -9547,7 +9700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 313.69 73.66 0)
 			(effects
 				(font
@@ -9556,7 +9709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.10"
 			(at 313.69 73.66 0)
 			(effects
 				(font
@@ -10103,6 +10256,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "CR0603-FX-1003ELFTR-ND"
+			(at 118.11 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10000"
+			(at 118.11 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 118.11 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7a58aa24-cbf4-4aec-b6c8-25e60aea288b")
 		)
@@ -10252,6 +10432,33 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 139.7 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "399-C0603C220K4GAC7867CT-ND"
+			(at 139.7 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 139.7 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 139.7 45.72 0)
 			(effects
 				(font

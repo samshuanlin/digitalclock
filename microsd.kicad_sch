@@ -1397,7 +1397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 85.09 95.25 0)
 			(effects
 				(font
@@ -1406,7 +1406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 85.09 95.25 0)
 			(effects
 				(font
@@ -1415,7 +1415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 85.09 95.25 0)
 			(effects
 				(font
@@ -1619,7 +1619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "CR0603-FX-4702ELFTR-ND"
 			(at 100.33 78.74 0)
 			(effects
 				(font
@@ -1628,7 +1628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 100.33 78.74 0)
 			(effects
 				(font
@@ -1637,7 +1637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.10"
 			(at 100.33 78.74 0)
 			(effects
 				(font
@@ -1809,6 +1809,69 @@
 			)
 		)
 		(property "Price @ Qty" "2.44000"
+			(at 139.7 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 P/N" "2073-MEM2075-00-140-01-ATR-ND"
+			(at 139.7 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "2073-MEM2075-00-140-01-ATR-ND"
+			(at 139.7 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "2073-MEM2075-00-140-01-ATR-ND"
+			(at 139.7 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "GCT"
+			(at 139.7 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr P/N" "MEM2075-00-140-01-A"
+			(at 139.7 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "2.45000"
+			(at 139.7 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "2.45000"
 			(at 139.7 95.25 0)
 			(effects
 				(font
@@ -2018,7 +2081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 85.09 87.63 0)
 			(effects
 				(font
@@ -2027,7 +2090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 85.09 87.63 0)
 			(effects
 				(font
@@ -2036,7 +2099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 85.09 87.63 0)
 			(effects
 				(font
@@ -2240,7 +2303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 85.09 90.17 0)
 			(effects
 				(font
@@ -2249,7 +2312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 85.09 90.17 0)
 			(effects
 				(font
@@ -2258,7 +2321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 85.09 90.17 0)
 			(effects
 				(font
@@ -2462,7 +2525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 85.09 92.71 0)
 			(effects
 				(font
@@ -2471,7 +2534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 85.09 92.71 0)
 			(effects
 				(font
@@ -2480,7 +2543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 85.09 92.71 0)
 			(effects
 				(font
@@ -2750,7 +2813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "CR0603-FX-4702ELFTR-ND"
 			(at 91.44 78.74 0)
 			(effects
 				(font
@@ -2759,7 +2822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 91.44 78.74 0)
 			(effects
 				(font
@@ -2768,7 +2831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.10"
 			(at 91.44 78.74 0)
 			(effects
 				(font
@@ -2972,7 +3035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "CR0603-FX-4702ELFTR-ND"
 			(at 115.57 78.74 0)
 			(effects
 				(font
@@ -2981,7 +3044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 115.57 78.74 0)
 			(effects
 				(font
@@ -2990,7 +3053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.10"
 			(at 115.57 78.74 0)
 			(effects
 				(font
@@ -3194,7 +3257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "CR0603-FX-4702ELFTR-ND"
 			(at 107.95 78.74 0)
 			(effects
 				(font
@@ -3203,7 +3266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 107.95 78.74 0)
 			(effects
 				(font
@@ -3212,7 +3275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.10"
 			(at 107.95 78.74 0)
 			(effects
 				(font

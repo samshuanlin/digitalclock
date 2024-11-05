@@ -1209,7 +1209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr P/N" "10118194-0001LF"
+		(property "Mfr P/N" "10103594-0001LF"
 			(at 133.35 97.79 0)
 			(effects
 				(font
@@ -1282,6 +1282,42 @@
 			)
 		)
 		(property "Supplier_2 Price @ Qty" ""
+			(at 133.35 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 P/N" "609-4050-2-ND"
+			(at 133.35 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.84000"
+			(at 133.35 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.84000"
+			(at 133.35 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1" "Digikey"
 			(at 133.35 97.79 0)
 			(effects
 				(font
@@ -1398,7 +1434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_1 P/N" ""
+		(property "Supplier_1 P/N" "-- mixed values --"
 			(at 160.02 105.41 0)
 			(effects
 				(font
@@ -1407,7 +1443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_1 Unit Price" ""
+		(property "Supplier_1 Unit Price" "-- mixed values --"
 			(at 160.02 105.41 0)
 			(effects
 				(font
@@ -1416,7 +1452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_1 Price @ Qty" ""
+		(property "Supplier_1 Price @ Qty" "-- mixed values --"
 			(at 160.02 105.41 0)
 			(effects
 				(font
@@ -1620,7 +1656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_1 P/N" ""
+		(property "Supplier_1 P/N" "-- mixed values --"
 			(at 160.02 92.71 0)
 			(effects
 				(font
@@ -1629,7 +1665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_1 Unit Price" ""
+		(property "Supplier_1 Unit Price" "-- mixed values --"
 			(at 160.02 92.71 0)
 			(effects
 				(font
@@ -1638,7 +1674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier_1 Price @ Qty" ""
+		(property "Supplier_1 Price @ Qty" "-- mixed values --"
 			(at 160.02 92.71 0)
 			(effects
 				(font

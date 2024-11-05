@@ -1641,6 +1641,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier 1 P/N" "RNCP0603FTD10K0CT-ND"
+			(at 186.69 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Price @ Qty" "0.10"
+			(at 186.69 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier 1 Unit Price" "0.10"
+			(at 186.69 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "002695fb-b412-425b-a3cc-c4e9ef5137df")
 		)
@@ -1867,6 +1894,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier_1 P/N" "732-4980-2-ND"
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "0.15000"
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "0.15000"
+			(at 80.01 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "49ac0c19-e454-4c6c-a759-f8bbc970f11d")
 		)
@@ -1917,7 +1971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/40001947A.pdf"
 			(at 147.32 76.2 0)
 			(effects
 				(font
@@ -1975,7 +2029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" ""
+		(property "Mfr" "Microchip Technology"
 			(at 147.32 76.2 0)
 			(effects
 				(font
@@ -1984,7 +2038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr P/N" ""
+		(property "Mfr P/N" "AT42QT1011-TSHR"
 			(at 147.32 76.2 0)
 			(effects
 				(font
@@ -1993,7 +2047,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1" ""
+		(property "Supplier 1" "Digikey"
 			(at 147.32 76.2 0)
 			(effects
 				(font
@@ -2002,7 +2056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "AT42QT1011-TSHRCT-ND"
 			(at 147.32 76.2 0)
 			(effects
 				(font
@@ -2011,7 +2065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.77000"
 			(at 147.32 76.2 0)
 			(effects
 				(font
@@ -2020,7 +2074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.77000"
 			(at 147.32 76.2 0)
 			(effects
 				(font
@@ -2120,7 +2174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
 			(at 196.85 71.12 0)
 			(effects
 				(font
@@ -2152,6 +2206,10 @@
 		)
 		(instances
 			(project ""
+				(path "/f9d381c9-3724-4d31-a5c2-069f1dd9b08c"
+					(reference "TP1")
+					(unit 1)
+				)
 				(path "/f9d381c9-3724-4d31-a5c2-069f1dd9b08c/34dd7306-e107-4822-a0c3-53cc76923bff"
 					(reference "TP1")
 					(unit 1)
@@ -2296,6 +2354,33 @@
 			)
 		)
 		(property "Supplier 2 Price @ Qty" ""
+			(at 80.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 P/N" "118-CR0603-FX-2000ELFTR-ND"
+			(at 80.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "0.10000"
+			(at 80.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "0.10000"
 			(at 80.01 59.69 0)
 			(effects
 				(font
@@ -2456,6 +2541,33 @@
 			)
 		)
 		(property "Supplier 2 Price @ Qty" ""
+			(at 173.99 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 P/N" "399-C0402C103K3REC7411TR-ND"
+			(at 173.99 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "0.10000"
+			(at 173.99 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "0.10000"
 			(at 173.99 69.85 0)
 			(effects
 				(font
@@ -2693,6 +2805,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier_1 P/N" "MMBT2222A-FDITR-ND"
+			(at 77.47 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "0.10000"
+			(at 77.47 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "0.10000"
+			(at 77.47 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9f6138ef-bdc1-4b45-a66e-ba9094ae4144")
 		)
@@ -2913,6 +3052,33 @@
 			)
 		)
 		(property "Supplier 2 Price @ Qty" ""
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 P/N" "399-C0402C103K3REC7411TR-ND"
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "0.10000"
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "0.10000"
 			(at 104.14 86.36 0)
 			(effects
 				(font
@@ -3220,7 +3386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "A129540CT-ND"
 			(at 64.77 86.36 0)
 			(effects
 				(font
@@ -3229,7 +3395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 64.77 86.36 0)
 			(effects
 				(font
@@ -3238,7 +3404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.10"
 			(at 64.77 86.36 0)
 			(effects
 				(font

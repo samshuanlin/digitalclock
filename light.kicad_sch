@@ -1028,7 +1028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 78.74 85.09 0)
 			(effects
 				(font
@@ -1037,7 +1037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 78.74 85.09 0)
 			(effects
 				(font
@@ -1046,7 +1046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 78.74 85.09 0)
 			(effects
 				(font
@@ -1250,7 +1250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 P/N" ""
+		(property "Supplier 1 P/N" "311-0.0GRTR-ND"
 			(at 78.74 87.63 0)
 			(effects
 				(font
@@ -1259,7 +1259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Unit Price" ""
+		(property "Supplier 1 Unit Price" "0.10"
 			(at 78.74 87.63 0)
 			(effects
 				(font
@@ -1268,7 +1268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier 1 Price @ Qty" ""
+		(property "Supplier 1 Price @ Qty" "0.00900"
 			(at 78.74 87.63 0)
 			(effects
 				(font
@@ -1456,6 +1456,33 @@
 			)
 		)
 		(property "Supplier 2 Price @ Qty" ""
+			(at 96.52 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 P/N" "S6103-ND"
+			(at 96.52 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Price @ Qty" "0.57000"
+			(at 96.52 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier_1 Unit Price" "0.57000"
 			(at 96.52 82.55 0)
 			(effects
 				(font
