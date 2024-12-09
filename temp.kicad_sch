@@ -707,26 +707,26 @@
 		(uuid "47c3e1f1-b1b4-4508-8469-76ea31ece571")
 	)
 	(junction
+		(at 175.26 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f35ce69-5e54-4804-8d23-08680ca2bb8b")
+	)
+	(junction
 		(at 110.49 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c790b6ae-58be-4ef5-bf4a-aef5433f4e54")
 	)
-	(no_connect
-		(at 175.26 110.49)
-		(uuid "77ec26b2-6402-496a-bdc1-7d6a31845edf")
-	)
-	(no_connect
+	(junction
 		(at 175.26 113.03)
-		(uuid "d83ad88c-f98a-4b5d-86ce-6c0fe81dff4c")
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c9623201-ca29-4a03-b396-2b7a22805126")
 	)
 	(no_connect
 		(at 113.03 106.68)
 		(uuid "df6e538b-a259-4724-9d1d-067aa69985cc")
-	)
-	(no_connect
-		(at 175.26 107.95)
-		(uuid "ef6592cc-1283-4a84-b7b2-73001bb05b2d")
 	)
 	(bus_entry
 		(at 92.71 99.06)
@@ -765,6 +765,16 @@
 			(type default)
 		)
 		(uuid "40412512-96b2-4221-9d5c-c9b8cbf50477")
+	)
+	(wire
+		(pts
+			(xy 175.26 115.57) (xy 175.26 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42d21a4b-fe99-48d1-84d4-4c75b5374aa7")
 	)
 	(wire
 		(pts
@@ -868,6 +878,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 107.95) (xy 175.26 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad2078b3-6f29-45b0-a348-afa39fab9a6e")
+	)
+	(wire
+		(pts
 			(xy 100.33 99.06) (xy 95.25 99.06)
 		)
 		(stroke
@@ -885,6 +905,16 @@
 			(type default)
 		)
 		(uuid "ce9a26d6-5760-4f28-846b-01418fc0aa2a")
+	)
+	(wire
+		(pts
+			(xy 175.26 110.49) (xy 175.26 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6db4a46-57fb-4147-b499-2bad18bf98ce")
 	)
 	(wire
 		(pts
@@ -916,7 +946,7 @@
 		)
 		(uuid "f01d2fae-f88f-482e-93af-ae35e94986c4")
 	)
-	(text "A0, A1, A2 for setting I2C address.\nUnconnected: default 0x18\nhttps://learn.adafruit.com/adafruit-mcp9808-precision-i2c-temperature-sensor-guide/pinouts"
+	(text "A0, A1, A2 for setting I2C address.\nGND: default 0x18\nhttps://learn.adafruit.com/adafruit-mcp9808-precision-i2c-temperature-sensor-guide/pinouts"
 		(exclude_from_sim no)
 		(at 158.75 120.65 0)
 		(effects
@@ -1025,6 +1055,17 @@
 			(justify left bottom)
 		)
 		(uuid "a277b46a-f566-4b16-8d99-506314836e34")
+	)
+	(label "GND"
+		(at 175.26 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b3ffa418-52c6-4aad-9b10-6afd0d7111a6")
 	)
 	(label "ALERT"
 		(at 116.84 106.68 0)
